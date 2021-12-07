@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE06ISSP-SP001-07-SPKIRJ000-recovered_cspp-spkir_abj_cspp_metadata_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Metadata<br>
+Instrument Group Code: SPKIR<br>
